@@ -4,9 +4,12 @@
 **web:** [http://wwww.shawnmeyer.com](http://www.shawnmeyer.com)  
 **github:** [http://www.github.com/sgmeyer](http://www.shawnmeyer.com)
 
+-----
 
 ### Summary
 // TODO: Really awesome, accurate summary.
+
+-----
 
 ### Technical Summary
 > **Laguages and Frameworks:** C#, JavaScript, VB.NET, \*Objective-C, \*ASP.NET Core 1.0, \*\*PowerShell
@@ -29,6 +32,8 @@
 
 \* Denotes non-production experience.  
 \*\* Denotes limited production experience.
+
+-----
 
 ### Work Experience
 <span style="margin-right: 20em;">Hallmark Business Connections</span>
@@ -54,6 +59,8 @@ _Application Developer_
 December 2005 – September 2007
 
 _Software Engineer_
+
+-----
 
 ### Education
 <span style="margin-right: 6em;">Univeristy of Iowa</span>
