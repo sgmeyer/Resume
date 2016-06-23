@@ -1,9 +1,8 @@
-## <center>Shawn G. Meyer</center>
-<div style="text-align: center;">
+# Shawn G. Meyer
 **email:** sgmeyer@gmail.com  
 **web:** [http://wwww.shawnmeyer.com](http://www.shawnmeyer.com)  
 **github:** [http://www.github.com/sgmeyer](http://www.shawnmeyer.com)
-</div>
+
 
 ### Summary
 // TODO: Really awesome, accurate summary.
@@ -57,5 +56,5 @@ _Software Engineer_
 
 ### Education
 <span style="margin-right: 6em;">Univeristy of Iowa</span>
-<span style="margin-right: 6em;">BA in Computer Science</span>
+<span style="margin-right: 6em;">BA Computer Science</span>
 <span style="">Iowa City, IA</span>
