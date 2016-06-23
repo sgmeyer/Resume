@@ -2,7 +2,7 @@
 ## Web Developer and Lifelong Learner
 **email:** sgmeyer@gmail.com  
 **web:** [http://wwww.shawnmeyer.com](http://www.shawnmeyer.com)  
-**github:** [http://www.github.com/sgmeyer](http://www.shawnmeyer.com)
+**github:** [http://www.github.com/sgmeyer](http://www.github.com/sgmeyer)
 
 -----
 
